@@ -1,2 +1,2 @@
 # training
-blue
+purple
